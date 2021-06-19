@@ -38,9 +38,9 @@ layout: page
             <p>Den här sajten är till för dig som vill använda offentlighetsprincipen för att få ut handlingar och uppgifter från myndigheter. Här hittar du förklaringar till de viktiga begreppen, argument som du kan använda när myndigheterna säger nej och rättsfallen som du kan hänvisa till. Sajten uppdateras löpande med nya domar och JO-beslut.</p>
              </div>
         <div class="tool">
-            <h3>Fråga Staten</h3>
-            <p>Länk: <a href="https://fragastaten.se/sv">FrågaStaten.se</a></p>
-            <p>FrågaStaten.se är en överskådlig plattform som göra det säkert, lätt och bekvämt att använda offentlighetsprincipen. Plattformen tillåter användare att begära ut och ta del av allmänna handlingar genom en digitaliserad och enkel portal. Ju mer du använder den desto mer hjälper du att minska administrationen för offentlig sektor. Projektet är icke-vinstdrivande och verkar för en stark och digital Offentighetsprincip.</p>
+            <h3>Handlingar.se</h3>
+            <p>Länk: <a href="https://handlingar.se/sv">Handlingar.se</a></p>
+            <p>Handlingar.se är en överskådlig plattform som gör det säkert, lätt och bekvämt att använda offentlighetsprincipen. Syftet med plattformen är att popularisera, utbilda och demonstrera en digitaliserad informationshantering och mer effektiv digital insyn i offentlig sektor. Under användningens gång kommer användarna och myndigheterna publicera frågor och svar som hjälper forskning, innovation och samhällsutveckling. </p>
 	           </div>
 	       <h2 id="oversikt">Få översikt</h2>
          <p>Upptäck dessa projekt för att få översikt på situationen kring transparens och öppenhet i Sverige!</p>
